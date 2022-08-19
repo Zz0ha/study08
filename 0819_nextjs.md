@@ -2,8 +2,6 @@
 
 ## next.js
 
-[https://velopert.com/3293](https://velopert.com/3293)
-
 ## components
 
 ### _document.tsx
